@@ -1,1 +1,2 @@
-pirint("Meow")
+print("Meow")
+
